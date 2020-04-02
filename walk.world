@@ -6,8 +6,11 @@
     </include>
     <actor name="actor">
       <skin>
-        <filename>walk.world</filename>
+        <filename>walk.dae</filename>
       </skin>
+      <animation name="animation">
+        <filename>moonwalk.dae</filename>
+      </animation>
     </actor>
   </world>
 </sdf>
